@@ -1,0 +1,7 @@
+boto3                     # For AWS interactions
+kubernetes                # For Kubernetes API interactions
+docker                    # For Docker management
+prometheus-client         # For monitoring metrics
+requests                  # For sending HTTP requests (e.g., for notifications)
+pyyaml                    # For YAML file parsing (for CI/CD and Kubernetes)
+argparse                  # For argument parsing (standard library, but can be included for clarity)
